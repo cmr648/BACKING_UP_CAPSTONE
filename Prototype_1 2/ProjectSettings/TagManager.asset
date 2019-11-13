@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room_Trigger
+  - Gun
+  - Weapon
+  - Key
+  - Wall
+  - Bullet
+  - Holding_Key
+  - Enemy_Bullet
+  - Health
+  - Enemy_Point
+  - Treasure
+  - Trophy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - Player
+  - End_Walls
+  - Middle_Walls
+  - Special_Door
+  - Enemy_Bullet
+  - Room_Triggers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
